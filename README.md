@@ -16,7 +16,7 @@ O diferencial deste material é a integração de metodologias ativas ("Geometri
 * `Apresentacao_aula_IA.pptx`: Arquivo de apoio visual para a aula.
 * `Ficha_Atividades.pdf`: Material didático para impressão (inclui desafio em Inglês).
 * `Reflexão_IA.pdf`
-* `Prompts_Utilizados.md`: Registro dos comandos enviados às IAs.
+* `Prompts.pdf`: Registro dos comandos enviados às IAs.
 
 ### Pontos Positivos:
 1.  **Velocidade na Estruturação:** O esqueleto do plano e os esboços dos slides foram gerados em segundos.
